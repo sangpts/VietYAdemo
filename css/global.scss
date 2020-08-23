@@ -1,13 +1,7 @@
----
----
-
 @import "colors";
 @import "mixins";
 
 /* latin */
-@font-face {
-  font-family: sans-serif;
-}
 del {
   text-decoration: line-through !important;
 }
